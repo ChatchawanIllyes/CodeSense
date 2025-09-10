@@ -1,11 +1,13 @@
+# CodeSense
 
-  # Futuristic Workspace Interface
+**CodeSense** is an innovative web application designed to make coding accessible for visually impaired students. Using voice commands, students can write, edit, and navigate code efficiently, enabling an inclusive and empowering learning experience.  
 
-  This is a code bundle for Futuristic Workspace Interface. The original project is available at https://www.figma.com/design/Hpm1ZAADb9N0v4XFFJiUy5/Futuristic-Workspace-Interface.
+## Features
 
-  ## Running the code
+- **Accessible Welcome Screen**: An easy-to-navigate landing page that guides users to different coding phases.  
+- **Voice Code Editor**: Write and edit code using only your voice.  
+- **Multi-Phase Learning**: Supports progressive learning with Phase 2 and Phase 3 editors for more advanced coding exercises.  
+- **Theme Support**: Includes a customizable theme for optimal readability and accessibility.  
+- **Easy Navigation**: Switch between welcome screen and code editors seamlessly.  
 
-  Run `npm i` to install the dependencies.
 
-  Run `npm run dev` to start the development server.
-  
